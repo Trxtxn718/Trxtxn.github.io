@@ -1,3 +1,4 @@
+let input = document.querySelector("#input").value
 function Tom(){
-    console.log("Tom du Affe")
+    console.log(input + " du Affe")
 }
